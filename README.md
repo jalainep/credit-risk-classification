@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit-Risk-Classification
 
 
 
@@ -6,6 +6,7 @@
 ![image](https://github.com/jalainep/credit-risk-classification/assets/143963189/24285b8d-cb87-4913-b3a2-70fd72a87a5a)
 
 In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+
 
 
 
@@ -18,10 +19,12 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 # Results
 
-* Machine Learning Model 1:
+* Machine Learning Model 1: # Logistic Regression
 
   
-   <img width="254" alt="image" src="https://github.com/jalainep/credit-risk-classification/assets/143963189/8bb02d8b-d4d6-428c-9b76-e8b053ebdc8e">
+![image](https://github.com/jalainep/credit-risk-classification/assets/143963189/80590cb3-5ea1-44c9-8803-f7635dafd893)
+
+
 
 
 - Logistic regression model shows 99% accuracy.
@@ -34,7 +37,12 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 
 
-* Machine Learning Model 2:
+
+
+
+
+
+* Machine Learning Model 2: # RandomOverSample
 
  
   
@@ -46,6 +54,9 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 - Low risk loans 99% recall & High-risk loans 99% recall
 
 
+
+
+
 ## Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any.
+Although both models provide great insights, the random over sample would be the best model to use. It has the best accuracy, precision, and recall overall. The random over sample would produce the best results to ensure loans are given to the best applicants.
