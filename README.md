@@ -5,7 +5,6 @@
 
 ![image](https://github.com/jalainep/credit-risk-classification/assets/143963189/24285b8d-cb87-4913-b3a2-70fd72a87a5a)
 
-In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 
 
@@ -13,6 +12,8 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 # Overview of the analysis
 
+Lending loans are a huge risk that lending companies take. To make sure loans are given to the best brorrowers, creditworthiness is used as a key determinationn factor. In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+ 
 
 
 
