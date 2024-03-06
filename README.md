@@ -19,10 +19,14 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 # Results
 
-* Machine Learning Model 1: # Logistic Regression
+* Machine Learning Model 1:
+* # Logistic Regression
 
   
 ![image](https://github.com/jalainep/credit-risk-classification/assets/143963189/80590cb3-5ea1-44c9-8803-f7635dafd893)
+
+
+
 
 
 
@@ -45,7 +49,13 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 
 
-* Machine Learning Model 2: # Random Over Sample
+
+
+
+
+
+* Machine Learning Model 2:
+* # Random Over Sample
 
  
   
@@ -58,6 +68,9 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 - Random Over sample model shows 99% accuracy.
 - Low risk loans 100% precision & High-risk loans 84% precision
 - Low risk loans 99% recall & High-risk loans 99% recall
+
+
+
 
 
 
