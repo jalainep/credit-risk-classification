@@ -32,11 +32,14 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 
 
+
+
 * Machine Learning Model 2:
 
-* 
+ 
   
-<img width="230" alt="image" src="https://github.com/jalainep/credit-risk-classification/assets/143963189/4a8545cf-eb0c-49f1-8606-1340c3401b29">
+![image](https://github.com/jalainep/credit-risk-classification/assets/143963189/ae02367d-e5ce-4f7b-bf60-cad3afb70068)
+
 
 - Random Over sample model shows 99% accuracy.
 - Low risk loans 100% precision & High-risk loans 84% precision
