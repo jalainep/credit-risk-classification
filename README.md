@@ -42,11 +42,17 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 
 
-* Machine Learning Model 2: # RandomOverSample
+
+
+
+* Machine Learning Model 2: # Random Over Sample
 
  
   
 ![image](https://github.com/jalainep/credit-risk-classification/assets/143963189/ae02367d-e5ce-4f7b-bf60-cad3afb70068)
+
+
+
 
 
 - Random Over sample model shows 99% accuracy.
